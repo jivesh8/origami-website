@@ -1,0 +1,48 @@
+
+h1{color:red;text-decoration: underline red;font-family: "Brush Script MT"}
+
+body{background-image:url("images/pap.jpg")}
+
+img {
+  border: 5px solid #555;
+}
+
+img {  
+margin-left: auto;  
+margin-right: auto;
+} 
+
+ul{color:red;}
+
+.header{
+   display:flex;
+   justify-content: space-around;
+   flex-direction: column;
+}
+.menu{
+    border: solid;
+    color: #ffffff;
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+}
+.me{
+    display: flex;
+    flex-direction: column;
+}
+.bodyimg{
+     display:flex;
+}
+.grid{
+    display: flex;
+    justify-content: space-around;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+body{
+     margin: 5px;
+     background:#00F6F6;
+}
+.origami{
+     font-family: fantasy;
+    }
